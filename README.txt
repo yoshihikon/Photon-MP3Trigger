@@ -1,0 +1,39 @@
+MP3Trigger for Photon
+============
+
+MP3Trigger library for Photon
+
+
+Example test-mp3.ino is dependent on:
+
+	MP3Trigger.h
+	MP3Trigger.cpp
+  Arduino Library
+
+============
+Original repository
+https://github.com/sansumbrella/MP3Trigger-for-Arduino
+
+MP3Trigger by David Wicks
+http://sansumbrella.com/
+
+Simple wrapper for MP3Trigger serial communication from Arduino.
+Also allows you to loop tracks.
+
+You need to place MP3Trigger in the right place on your machine
+for Arduino libraries. On a Mac, that means MP3Trigger.h and
+MP3Trigger.cpp live inside:
+~/Documents/Arduino/libraries/MP3Trigger
+
+For sample usage, see the examples/ folder (courtesy Carl Jensen)
+
+Thanks to:
+Carl Jensen, http://dimsos.fridata.dk
+
+
+Sparkfun product page has link to User Guide which they call
+Datasheet for some reason: 
+http://www.sparkfun.com/products/9715
+
+Updates on new firmware for MP3 Trigger V2 at:
+http://makerjam.com/support/
